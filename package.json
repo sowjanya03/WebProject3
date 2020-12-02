@@ -1,0 +1,23 @@
+{
+  "name": "15puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "15puzzle.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arminhus/15puzzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arminhus/15puzzle/issues"
+  },
+  "homepage": "https://github.com/arminhus/15puzzle#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
